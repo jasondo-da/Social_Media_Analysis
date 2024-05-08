@@ -13,13 +13,13 @@
 
 ## Project Introduction
 
-This is a Kaggle-sourced dataset used to refine my data analytics skills further and gain more data science experience. 
+This is a Kaggle-sourced dataset used to refine my data analytics skills further and gain more experience in the data science field. In this analysis, I want to gauge social media user behavior and sentiment across various platforms to better understand social media users and how they engage with the platform. The Social Media Sentiments Analysis Dataset documents user interactions with one another through their posts, likes, and reshares across multiple social media platforms. This dataset is a snapshot of user-generated content consisting of text, sentiment, timestamps, usernames, platform used, hashtags, likes, reshares, and user country. 
 
 ### Social Media Sentiments Analysis Jupyter Notebook
 
-All codes of Social Media Sentiments Analysi in Jupyter Notebook
+All codes of Social Media Sentiments Analysis in Jupyter Notebook
 
-Link: [Social Media Sentiments Analysi]()
+Link: [Social Media Sentiments Analysi](https://github.com/jasondo-da/Social_Media_Sentiments_Analysis/blob/main/social_media_sentiments_analysis.ipynb)
 
 ### Social Media Sentiments Analysis Dataset
 
