@@ -19,7 +19,7 @@ This is a Kaggle-sourced dataset used to refine my data analytics skills further
 
 All codes of Social Media Sentiments Analysis in Jupyter Notebook
 
-Link: [Social Media Sentiments Analysi](https://github.com/jasondo-da/Social_Media_Sentiments_Analysis/blob/main/social_media_sentiments_analysis.ipynb)
+Link: [Social Media Sentiments Analysis](https://github.com/jasondo-da/Social_Media_Sentiments_Analysis/blob/main/social_media_sentiments_analysis.ipynb)
 
 ### Social Media Sentiments Analysis Dataset
 
