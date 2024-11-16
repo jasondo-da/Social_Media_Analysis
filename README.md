@@ -1,21 +1,19 @@
 # Social Media Analysis
 
-# Analysis In Process
-
 ![image](https://github.com/jasondo-da/Social_Media_Sentiments_Analysis/assets/138195365/2e065f22-74b1-4722-86f8-ce8af7c19fb9)
 
 ## Table of Contents
 
 - [Project Introduction](#project-introduction)
-    - [Social Media Sentiments Analysis Jupyter Notebook](#social-media-sentiments-analysis-jupyter-notebook)
-    - [Social Media Sentiments Analysis Dataset](#social-media-sentiments-analysis-dataset)
+    - [Social Media Analysis Jupyter Notebook](#social-media-analysis-jupyter-notebook)
+    - [Social Media Analysis Dataset](#social-media-analysis-dataset)
 - [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Conclusion](#conclusion)
 
 ## Project Introduction
 
-This is a Kaggle-sourced dataset used to refine my data analytics skills further and gain more experience in the data science field. In this analysis, I want to gauge social media user behavior and sentiment across various platforms to better understand social media users and how they engage with the platform. The Social Media Sentiments Analysis Dataset documents user interactions with one another through their posts, likes, and reshares across multiple social media platforms. This dataset is a snapshot of user-generated content consisting of text, sentiment, timestamps, usernames, platform used, hashtags, likes, reshares, and user country. 
+In this analysis, I want to gauge social media user behavior and sentiment across various platforms to better understand social media users and how they interact on the platform. The Social Media Sentiments Analysis Dataset documents user interactions with one another through their posts, likes, and reshares across multiple social media platforms. This dataset is a snapshot of user-generated content consisting of text, sentiment, timestamps, usernames, platform used, hashtags, likes, reshares, and user country. 
 
 ### Social Media Analysis Jupyter Notebook
 
@@ -47,11 +45,48 @@ Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/kashishparmar02/
 
 ## Objective
 
+The objective is to provide insight into social media users and how they interact with online content and the platforms they use. The data used is the Social Media Sentiments Analysis Dataset that documents user interactions with one another through their posts, likes, and reshares across multiple social media platforms.
 
+## Analysis Outline
+
+This exploratory data analysis aims to uncover new insights and unusual anomalies within the dataset by answering the following questions: 
+
+- What are social media users’ preferred methods of engagement?
+
+- What is the most common sentiment type in a post? Does post sentiment change on different platforms?
+
+- Does user sentiment affect the length of their text posts?
+
+- Does post seniment affect user engagement?
+
+- Which hours of the dat are users most active?
+
+- Which months are users most active?
+
+- How has user engagement changed over time?
+
+- Where are users geographically located?
 
 ## Conclusion
 
+### Key Findings
 
-- Throughout the day post frequency of each sentiment moves at a similar pace until 5 pm to 8 pm where positive posts see a spike in frequency while neutral and negative post frequency plateaus for the day
+•	Users prefer to engage with posts by using likes over reshares. On average, for every 1 reshare of a post users tend to receive 2 likes on all social media platforms.
 
-- From 2010 to 2016 negative and neutral posts were non-existent indicating that there may be missing data within the dataset. However, in 2023 there is a significant increase in positive post frequency when compared to neutral and negative posts
+•	Due to the scarcity of reshares on a post, it could indicate the intensity of the sentiment felt by the post content. The more reshares a post has the more engaging the post likely is. 
+
+•	Contrary to popular belief, most social media posts are posts with positive sentiment (at least in this dataset). Positive sentiment posts outnumber negative posts by about 2-1 and neutral posts by 8-1 on all social media platforms.
+
+•	The median length of a post is about the same on all social media platforms regardless of sentiment.
+
+•	Positive and neutral posts on average perform about 20% better, on likes and reshares, than posts with negative sentiment.
+
+•	Most interactive users on social media are most likely students who are still in school
+
+•	Peak social media activity hours generally begin around 2 pm. After 2 pm user activity remains elevated until about 8 pm. At 8 pm social media activity starts to decline until midnight when most activity reaches its daily lows.
+
+•	The general peak season for social media activity is during summer and winter break when students are not in school and have more time to engage in online content.
+
+•	Social media engagement activities started to grow from 2014-2016, plateaued from 2016-2022, until growing again from 2022-2023.
+
+•	Majority of the active social media users are mostly located in developed Western countries 
