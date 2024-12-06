@@ -10,6 +10,7 @@
 - [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Conclusion](#conclusion)
+- [Generated Plots](#generated-plots)
 
 ## Project Introduction
 
@@ -49,7 +50,7 @@ The objective is to provide insight into social media users and how they interac
 
 ## Analysis Outline
 
-This exploratory data analysis aims to uncover new insights and unusual anomalies within the dataset by answering the following questions: 
+This descriptive analysis aims to uncover new insights and unusual anomalies within the dataset by answering the following questions: 
 
 - What are social media users’ preferred methods of engagement?
 
@@ -90,3 +91,17 @@ This exploratory data analysis aims to uncover new insights and unusual anomalie
 •	Social media engagement activities started to grow from 2014-2016, plateaued from 2016-2022, until growing again from 2022-2023.
 
 •	Majority of the active social media users are mostly located in developed Western countries 
+
+## Generated Plots
+
+![image](https://github.com/user-attachments/assets/4f6e7427-1d3f-4613-ab9f-0188b87f8e23)
+
+![image](https://github.com/user-attachments/assets/22ced709-fd8a-4b54-88df-7beb7ebab48f)
+
+![image](https://github.com/user-attachments/assets/561adf0a-06dd-4953-b019-7e80b20410b0)
+
+![image](https://github.com/user-attachments/assets/9d5705d9-a5cb-499d-b4b0-1eb539bd077c)
+
+
+
+
