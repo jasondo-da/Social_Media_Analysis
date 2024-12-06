@@ -1,4 +1,4 @@
-# Social Media Analysis
+# Social Media Descriptive Analysis
 
 ![image](https://github.com/jasondo-da/Social_Media_Sentiments_Analysis/assets/138195365/2e065f22-74b1-4722-86f8-ce8af7c19fb9)
 
