@@ -7,14 +7,13 @@
 - [Project Introduction](#project-introduction)
     - [Social Media Analysis Jupyter Notebook](#social-media-analysis-jupyter-notebook)
     - [Social Media Analysis Dataset](#social-media-analysis-dataset)
-- [Objective](#objective)
 - [Analysis Outline](#analysis-outline)
 - [Conclusion](#conclusion)
 - [Generated Plots](#generated-plots)
 
 ## Project Introduction
 
-In this analysis, I want to gauge social media user behavior and sentiment across various platforms to better understand social media users and how they interact on the platform. The Social Media Sentiments Analysis Dataset documents user interactions with one another through their posts, likes, and reshares across multiple social media platforms. This dataset is a snapshot of user-generated content consisting of text, sentiment, timestamps, usernames, platform used, hashtags, likes, reshares, and user country. 
+In this analysis, I want to gauge social media user behavior and sentiment across various platforms to better understand social media users and how they interact on the platform. The Social Media Sentiments Analysis Dataset documents user interactions with one another through their posts, likes, and reshares across multiple social media platforms. This dataset is a snapshot of user-generated content consisting of text, sentiment, timestamps, usernames, platform used, hashtags, likes, reshares, and user country.
 
 ### Social Media Analysis Jupyter Notebook
 
@@ -44,9 +43,6 @@ Link: [Original Kaggle Dataset](https://www.kaggle.com/datasets/kashishparmar02/
 | Day | Day of the post |
 | Hour | Hour of the post |
 
-## Objective
-
-The objective is to provide insight into social media users and how they interact with online content and the platforms they use. The data used is the Social Media Sentiments Analysis Dataset that documents user interactions with one another through their posts, likes, and reshares across multiple social media platforms.
 
 ## Analysis Outline
 
