@@ -15,13 +15,13 @@
 
 In this analysis, I want to gauge social media user behavior and sentiment across various platforms to better understand social media users and how they interact on the platform. The Social Media Sentiments Analysis Dataset documents user interactions with one another through their posts, likes, and reshares across multiple social media platforms. This dataset is a snapshot of user-generated content consisting of text, sentiment, timestamps, usernames, platform used, hashtags, likes, reshares, and user country.
 
-### Social Media Analysis Jupyter Notebook
+## Social Media Analysis Jupyter Notebook
 
 All codes of Social Media Analysis in Jupyter Notebook
 
 Link: [Social Media Analysis](https://github.com/jasondo-da/Social_Media_Sentiments_Analysis/blob/main/social_media_analysis.ipynb)
 
-### Social Media Analysis Dataset
+## Social Media Analysis Dataset
 
 The Social Media Analysis Dataset captures a vibrant tapestry of emotions, trends, and interactions across various social media platforms. This dataset provides a snapshot of user-generated content, encompassing text, timestamps, hashtags, countries, likes, and retweets. Each entry unveils unique stories—moments of surprise, excitement, admiration, thrill, contentment, and more—shared by individuals worldwide.
 
